@@ -1963,10 +1963,10 @@ psl@^1.1.28:
   resolved "https://registry.yarnpkg.com/psl/-/psl-1.1.31.tgz#e9aa86d0101b5b105cbe93ac6b784cd547276184"
   integrity sha512-/6pt4+C+T+wZUieKR620OpzN/LlnNKuWjy1iFLQ/UG35JqHlR/89MP1d96dUfkf6Dne3TuLQzOYEYshJ+Hx8mw==
 
-pubnub@^4.24.0:
-  version "4.24.0"
-  resolved "https://registry.yarnpkg.com/pubnub/-/pubnub-4.24.0.tgz#a22e40f4987d07c090f4c6935f2a2632ae268c09"
-  integrity sha512-i8MmmuxoVrq0ucY7GNMR1eNAO0w+AQ2Fsx0YvKSueaGEAoXxFB4eS7wtJPnhZ1D+/7/mo9X8dRzBPI6ZhbhvVg==
+pubnub@^4.24.2:
+  version "4.24.2"
+  resolved "https://registry.yarnpkg.com/pubnub/-/pubnub-4.24.2.tgz#438410da8bb124f5049b3d1de5b5f945de564aea"
+  integrity sha512-kmCetCZa6I1vSAjW/a5/II+h+eM2/ZCBAeZEkTsOMNyDp/HnynmMGZ6vwCW+eZJaolY1rUJ08OPd46rrpWdxeA==
   dependencies:
     agentkeepalive "^3.5.2"
     lil-uuid "^0.1.1"
